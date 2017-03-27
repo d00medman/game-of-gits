@@ -3,3 +3,5 @@ Winterfell, Warden of the North, Hand of the King, Protector of the Realm,
 Regent.  He is surely honorable and will lead a long and prosperous life
 
 ned dies :(
+
+new stuff, since we connected repo to github.com
